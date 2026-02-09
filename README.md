@@ -1,7 +1,7 @@
-Perpetual Cognition Reactor (PCR) – v1.0
+﻿Perpetual Cognition Reactor (PCR) – v1.0
 A Symbound Architecture for Unlimited Cognitive Throughput
 
-AGPL-3.0 | 2025 | Fractal Infrastructure Media (FIM)
+AGPL-3.0 | 2025 | Fractal Media Infrastructure (FMI)
 
 🔥 What This Repository Is
 
