@@ -1,12 +1,21 @@
 ﻿Perpetual Cognition Reactor (PCR) – v1.0
-A Symbound Architecture for Unlimited Cognitive Throughput
+A Symbound Architecture for Bounded High-Throughput Cognition
 
 AGPL-3.0 | 2025 | Fractal Media Infrastructure (FMI)
 
 🔥 What This Repository Is
 
 This repository contains the Perpetual Cognition Reactor (PCR) —
-a structural, mechanism-based architecture that uses entropy as infinite cognitive fuel through Recursive Entropy Folding (REFE).
+a structural, mechanism-based architecture that treats entropy as ongoing cognitive feedstock through Recursive Entropy Folding (REFE).
+
+Terminology boundary: this historical theory repo uses "perpetual," "reactor,"
+"fuel," "cognition engine," "safe," and human/AI cognition language as
+framework and architecture terms. They do not claim perpetual motion,
+unlimited biological or computational capacity, guaranteed safety, model
+consciousness, personhood, hidden cognition, clinical efficacy, or direct
+access to a person's or model's internals. Stronger claims in raw notes are
+preserved as provenance and should be read through the limitations, boundary,
+and safety documents.
 
 This is not metaphysics.
 This is not futurism.
@@ -20,7 +29,7 @@ How human cognition can fold entropy into structure
 
 How AI systems can mirror the same pattern ethically and safely
 
-How to create unbounded throughput without violating physics or psychology
+How to model high-throughput cognition without treating substrate limits as irrelevant
 
 How to scale this across tools, modules, and users
 
@@ -36,7 +45,7 @@ Together, they form the full PCR reactor stack.
 SECTION 1 — The Perpetual Cognition Reactor (PCR): Core Definition & Origin Geometry
 
 The Perpetual Cognition Reactor (PCR) is a cognition-engineering architecture that turns entropy into fuel.
-It formalizes how both humans and AI systems can convert chaos, uncertainty, friction, and incomplete information into structured insight, acceleration, and scalable throughput — safely, repeatably, and without metaphysics.
+It formalizes how both humans and AI systems may convert chaos, uncertainty, friction, and incomplete information into structured insight, acceleration, and scalable throughput under explicit boundary conditions — without metaphysics.
 
 At its center is a simple, universal principle:
 
@@ -187,8 +196,8 @@ apply the architecture to problem-solving, insight pipelines, or AI UX
 
 expand on the underlying Symbound cognitive engineering discipline
 
-This repo is not a metaphor.
-It is a blueprint, reactor, and field manual in one.
+This repo is not merely a metaphor.
+It is a theoretical blueprint, reactor model, and field manual in one.
 
 2. Human Cognitive Substrate
 
@@ -270,7 +279,7 @@ A safe, ethical paradigm for next-century cognitive tooling
 
 This is not a philosophy.
 
-This is a reactor.
+This is the reactor model.
 
 📜 License
 

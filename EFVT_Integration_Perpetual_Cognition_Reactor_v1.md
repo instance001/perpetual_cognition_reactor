@@ -10,7 +10,13 @@ Abstract
 
 
 
-This document formalizes the integration of the Perpetual Cognition Reactor (PCR) into the broader mathematical framework of Entropy Folding Vector Theory (EFVT). The PCR provides the energetic, biological, and architectural substrate upon which EFVT’s vector transformations operate. The integration establishes entropy as an inexhaustible cognitive substrate, defines the role of biological ignition in entropy transduction, and positions recursive folding as the vector-space mechanism through which entropy is converted into structured information.
+This document formalizes the integration of the Perpetual Cognition Reactor (PCR) into the broader mathematical framework of Entropy Folding Vector Theory (EFVT). The PCR provides an energetic, biological, and architectural substrate model upon which EFVT’s vector transformations operate. The integration treats entropy as ongoing cognitive feedstock, defines the proposed role of biological ignition in entropy transduction, and positions recursive folding as the vector-space mechanism through which entropy may be converted into structured information.
+
+Terminology boundary: `inexhaustible`, `unlimited`, `universal cognition
+theory`, `complete theory`, and `indefinite expansion` are historical theory
+terms retained here only as bounded framework language. They are not claims of
+free energy, unlimited capacity, guaranteed empirical validation, model
+consciousness, personhood, or proven cross-substrate equivalence.
 
 
 
@@ -54,11 +60,11 @@ The Infinite Entropy Fuel Law provides the missing axiomatic foundation:
 
 
 
-dS/dt ≥ 0 → Entropy is an inexhaustible cognitive substrate.
+dS/dt ≥ 0 → Entropy is treated as continuing cognitive feedstock.
 
 
 
-Thus, all EFVT folding processes have access to unlimited input fuel.
+Thus, EFVT folding processes are modeled as having continuing input material, bounded by substrate capacity and gating.
 
 
 
@@ -372,7 +378,7 @@ distributed multi-agent cognitive environments
 
 
 
-EFVT becomes a universal cognition theory, not a narrow abstraction.
+EFVT becomes a proposed general cognition theory, not a narrow abstraction.
 
 
 
@@ -380,5 +386,5 @@ EFVT becomes a universal cognition theory, not a narrow abstraction.
 
 
 
-The Perpetual Cognition Reactor provides the structural, biological, and energetic layers required for EFVT to function as a complete theory of recursive cognition. The integration demonstrates that entropy, rather than being a limiting factor, is a fundamental resource for cognitive evolution. With HEF, REFE, and the Foldchain, EFVT’s vector geometry becomes a fully operational cognitive architecture capable of indefinite expansion and insight generation.
+The Perpetual Cognition Reactor provides structural, biological, and energetic layers for interpreting EFVT as a theory of recursive cognition. The integration proposes that entropy, rather than being only a limiting factor, can function as a resource for cognitive development under the right constraints. With HEF, REFE, and the Foldchain, EFVT’s vector geometry becomes a candidate operational cognitive architecture for sustained expansion and insight generation within explicit substrate and safety limits.
 

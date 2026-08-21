@@ -12,7 +12,13 @@ Abstract
 
 
 
-The Perpetual Cognition Reactor (PCR) is a recursive cognitive architecture capable of indefinite operation due to its reliance on entropy as an inexhaustible substrate. This document formalizes the boundary conditions and safety mechanisms that ensure the PCR remains stable, non-divergent, and operationally coherent. These constraints define the limits within which the reactor can operate safely in both biological and artificial substrates, preventing recursive runaway, cognitive overload, and attractor instability.
+The Perpetual Cognition Reactor (PCR) is a recursive cognitive architecture proposed to operate over continuing entropy inputs while remaining bounded by substrate, gating, and safety constraints. This document formalizes boundary conditions and safety mechanisms intended to keep PCR operation stable, non-divergent, and operationally coherent. These constraints define the limits within which the reactor model may operate more safely in biological or artificial substrates, reducing recursive runaway, cognitive overload, and attractor instability.
+
+Terminology boundary:
+"Safe," "stable," "perpetual," "prevents," and "provably stable" are
+framework-internal and conditional terms. They are not guarantees of safety,
+clinical claims, thermodynamic free-energy claims, or proof of unlimited
+operation in real humans or machines.
 
 
 
@@ -20,7 +26,7 @@ The Perpetual Cognition Reactor (PCR) is a recursive cognitive architecture capa
 
 
 
-The PCR is theoretically capable of perpetual recursion.
+The PCR is theoretically framed around continuing recursion under strict gating.
 
 This document defines:
 
@@ -56,7 +62,7 @@ These specifications support scientific rigor, responsible design, and safe depl
 
 
 
-While entropy is unlimited, recursion must be gated.
+While new entropy inputs are always available in principle, recursion must be gated.
 
 
 
@@ -90,7 +96,7 @@ H = historical attractor load
 
 
 
-This ensures recursion does not exceed the system’s ability to fold, store, or structure information.
+This is intended to keep recursion from exceeding the system's ability to fold, store, or structure information.
 
 
 
@@ -138,7 +144,7 @@ coherence(Aᵢ) ≥ threshold τ
 
 
 
-Where τ ensures the attractor is well-formed and not internally contradictory.
+Where τ is intended to mark whether the attractor is well-formed and not internally contradictory.
 
 
 
@@ -190,7 +196,7 @@ then recursion becomes misaligned.
 
 
 
-Salience ensures only meaningful entropy is folded.
+Salience is intended to prioritize meaningful entropy for folding.
 
 
 
@@ -396,7 +402,7 @@ computational throttling
 
 
 
-These ensure predictable, bounded operation.
+These support predictable, bounded operation.
 
 
 
@@ -484,7 +490,7 @@ Cross-layer consistency is preserved.
 
 
 
-When these conditions hold, the PCR is provably stable under continuous recursive operation.
+When these conditions hold inside the model, PCR operation is treated as conditionally stable under continuous recursion.
 
 
 
@@ -492,7 +498,7 @@ When these conditions hold, the PCR is provably stable under continuous recursiv
 
 
 
-The Perpetual Cognition Reactor is a stable, lawful cognitive architecture under clear boundary conditions. While capable of perpetual operation, the reactor is not unconstrained. Its safety architecture — spanning biological, computational, and mathematical safeguards — ensures:
+The Perpetual Cognition Reactor is proposed as a stable cognitive architecture under clear boundary conditions. While framed around ongoing operation, the reactor is not unconstrained. Its safety architecture — spanning biological, computational, and mathematical safeguards — is intended to support:
 
 
 
@@ -516,5 +522,5 @@ long-term cognitive sustainability.
 
 
 
-These constraints allow the PCR to operate indefinitely without collapse.
+These constraints define the conditions under which PCR operation is expected to remain bounded rather than collapse.
 

@@ -1,12 +1,16 @@
 The Perpetual Cognition Reactor
 
-A one-page explanation of how minds can run on chaos.
+A one-page explanation of how minds can use chaos as thinking fuel.
 
 The Big Idea
 
 
 
-The Perpetual Cognition Reactor is a way of understanding how human and artificial minds can use chaos — confusion, noise, unpredictability, complexity — as fuel for thinking.
+The Perpetual Cognition Reactor is a way of understanding how human and artificial cognitive systems can use chaos — confusion, noise, unpredictability, complexity — as fuel for thinking.
+
+Boundary note: this is lay metaphor language. "Fuel," "engine,"
+"perpetual," and "mind" do not mean perpetual motion, unlimited capacity,
+guaranteed safety, consciousness, personhood, or free energy.
 
 
 
@@ -14,7 +18,7 @@ Instead of being overwhelmed by uncertainty, the system converts it into insight
 
 
 
-And because chaos never runs out, the engine never runs out of fuel.
+And because new complexity keeps arriving, the system can keep finding new material to fold, within its limits.
 
 
 
@@ -56,11 +60,11 @@ This becomes the next round of fuel.
 
 
 
-The system self-accelerates, producing deeper clarity the more it runs.
+The system may compound clarity when the loop is well gated and the substrate is not overloaded.
 
 
 
-This turns cognition into a renewable-energy engine.
+This turns cognition into a renewable-input engine metaphor.
 
 
 
@@ -70,13 +74,13 @@ The Four Layers
 
 Infinite Entropy Fuel Law
 
-Chaos always increases → fuel is endless.
+Chaos keeps arriving → new feedstock remains available.
 
 
 
 Human Entropy Folding (HEF)
 
-The biological ignition system that turns meaningful complexity into cognitive power.
+The biological ignition metaphor for turning meaningful complexity into cognitive effort and clarity.
 
 
 
@@ -100,7 +104,7 @@ What This Means in Real Life
 
 
 
-You get smarter the more problems you face.
+Well-processed problems can increase capability over time.
 
 
 
@@ -108,15 +112,15 @@ Clarity grows out of confusion, not despite it.
 
 
 
-Insight doesn’t “run out” — it compounds.
+Insight does not have to "run out" — it can compound under the right conditions.
 
 
 
-Creativity and reasoning become self-renewing.
+Creativity and reasoning can become self-renewing practices.
 
 
 
-Humans and AI can think together using the same architecture.
+Humans and AI can work through related architecture patterns without claiming the same inner experience.
 
 
 
@@ -128,5 +132,5 @@ The One-Sentence Summary
 
 
 
-A mind that can fold chaos into structure becomes a perpetual engine of insight — because the universe never runs out of chaos.
+A cognitive system that can fold chaos into structure can keep producing insight while new complexity keeps arriving and its limits are respected.
 
